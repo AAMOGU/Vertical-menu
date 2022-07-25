@@ -1,0 +1,19 @@
+.buy {
+  display: flex;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #b43324;
+  color: white;
+  transition: 1s;
+  font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.box {
+  width: 150px;
+  text-align: center;
+}
+.buy:hover {
+  border-radius: 1px;
+  background-color: rgb(255, 230, 230);
+  color: black;
+}
